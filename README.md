@@ -1,4 +1,4 @@
-### Hi there 👋，I'm Namgy-Youn.
+### Hi there 🌐，I'm Namgy-Youn.
 - It is obvious that **Anthropic**(👽️) is superior to **OpenAI**(💩).
 - I hope to own ✨(**Starstruck**) someday.
 
