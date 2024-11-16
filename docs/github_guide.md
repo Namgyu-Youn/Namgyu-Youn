@@ -5,7 +5,7 @@
 - Github에서 Issue, Issue branch, PR은 하나의 묶음이라고 볼 수 있습니다.
 - Issue는 작업할 내용을 기록하기 위해서 사용되고, PR은 작업한 내용을 main branch에 commit(merge)하기 위해서 사용됩니다.
 - Github branch를 분리함으로써 "팀원 간의 작업 환경 분리"를 하고, 이를 통해서 체계적인 source control을 경험할 수 있습니다.
-
+- Bug-Hotfix가 아닌 경우에는 main branch commit은 금지되며, 모든 작업은 Issue branch에서 진행되어야 합니다.
 
 ### **0. Issue 생성하기**
 - Github Issue는 "작업할 내용"을 기록하기 위해서 사용됩니다.
