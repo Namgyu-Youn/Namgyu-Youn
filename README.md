@@ -23,7 +23,7 @@
 [![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)](https://github.com/python-poetry/poetry)
 [![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)](https://github.com/astral-sh/ruff)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github%20actions&logoColor=white)](https://github.com/features/actions)
-[![Chess](https://img.shields.io/badge/Chess-005D00?style=flat-square&logo=chess.com&logoColor=white)](https://www.chess.com/member/vis_ta)
+[![Chess](https://img.shields.io/badge/Chess-005D00?style=flat-square&logo=chess.com&logoColor=white)](https://www.chess.com/stats/live/rapid/vis_ta)
 </td>
 <td width="50%">
 
