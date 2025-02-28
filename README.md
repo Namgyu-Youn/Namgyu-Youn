@@ -10,6 +10,7 @@
 <img src="https://cultofthepartyparrot.com/parrots/hd/mergeconflictparrot.gif" width="30"> |
 <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30">
 
+Open source is gorgeous.. I hope to own Starstruck(✨) someday
 
 ### 🛠️ Tech Stack
 [![Gradio](https://img.shields.io/badge/Gradio-F67D09?style=flat-square&logo=gradio&logoColor=white)](https://github.com/gradio-app/gradio)
