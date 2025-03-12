@@ -1,6 +1,7 @@
 ![Notable contributions](./github-metrics.svg)
 
-### 🛠️ Tech Stack | <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30"> | <img src="https://cultofthepartyparrot.com/parrots/matrixparrot.gif" width="30"> | <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30"> | <img src="https://cultofthepartyparrot.com/parrots/hd/headbangingparrot.gif" width="30"> | <img src="https://cultofthepartyparrot.com/parrots/hd/mergeconflictparrot.gif" width="30"> | <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30">
+### 🛠️ Tech Stack | <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30"><img src="https://cultofthepartyparrot.com/parrots/matrixparrot.gif" width="30"><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30"><img src="https://cultofthepartyparrot.com/parrots/hd/headbangingparrot.gif" width="30"><img src="https://cultofthepartyparrot.com/parrots/hd/mergeconflictparrot.gif" width="30"><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30">
+
 [![Gradio](https://img.shields.io/badge/Gradio-F67D09?style=flat-square&logo=gradio&logoColor=white)](https://github.com/gradio-app/gradio)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)](https://github.com/tiangolo/fastapi)
 [![n8n](https://img.shields.io/badge/n8n-41B883?style=flat-square&logo=n8n&logoColor=white)](https://github.com/n8n-io/n8n)
